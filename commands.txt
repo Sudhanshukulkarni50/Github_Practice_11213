@@ -1,0 +1,254 @@
+    1  clear
+    2  whoami
+    3  clear
+    4  ls
+    5  whoami
+    6  git --version
+    7  sudo yum install git
+    8  git --version
+    9  clear
+   10  cler
+   11  clear
+   12  git --version
+   13  git config --global user.name "Sudhanshu Kulkarni"
+   14  git config --global user.email "sudhanshu.kulkarni50@gmail.com"
+   15  git config --list
+   16  clear
+   17  git config --list
+   18  pwd
+   19  ls
+   20  mkdire my_project
+   21  mkdir project
+   22  ls
+   23  cd /project
+   24  cd project/
+   25  pwd
+   26  git init
+   27  ls -la
+   28  history
+   29  new-item helloworld.py
+   30  touch hello_world.py
+   31  ls
+   32  git status
+   33  git add hello_world.py
+   34  git status
+   35  nn
+   36  history
+   37  New-Item hello_word.py
+   38  clear
+   39  \git branch
+   40  clear
+   41  ls
+   42  pwd
+   43  cd project/
+   44  ls
+   45  mkdir new
+   46  ls
+   47  cd new
+   48  ls
+   49  pwd
+   50  clear
+   51  touch hello.py
+   52  ls
+   53  cd ..
+   54  ls
+   55  git add .
+   56  git status
+   57  git commit -m "First Commit"
+   58  ls
+   59  sudo vi hello
+   60  ls
+   61  sudo vi hello_world.py
+   62  cat hello_world.py
+   63  git status
+   64  git add .
+   65  git commit -m "Added Code"
+   66  git status
+   67  git logs
+   68  git log
+   69  vi hello_world.py
+   70  cat hello_world.py
+   71  git add .
+   72  git commit -m "Added second line of code"
+   73  git status
+   74  git log
+   75  sudo nano hello_world.py
+   76  clear
+   77  pwd
+   78  ls
+   79  cd project/
+   80  ls
+   81  cat hello_world.py
+   82  clear
+   83  git status
+   84  clear
+   85  git log > logs.txt
+   86  ls
+   87  cat logs.txt
+   88  clear
+   89  exit
+   90  clear
+   91  git --version
+   92  pwd
+   93  ls
+   94  cd project/
+   95  pwd
+   96  ls
+   97  git branch
+   98  clear
+   99  ls
+  100  cd github_Practice_11213
+  101  cd Github_Practice_11213
+  102  ls
+  103  vi helloworld.py
+  104  git add helloworld.py
+  105  git commit -m "Added second code"
+  106  git log
+  107  clear
+  108  git status
+  109  git push origin main
+  110  clear
+  111  pwd
+  112  sudo yum search java-21
+  113  clear
+  114  sudo yum  install java-21-amazon-corretto.x86_64
+  115  clear
+  116  java --version
+  117  ls
+  118  vi hello.java
+  119  ls
+  120  java helloworld.java
+  121  java hello.java
+  122  clear
+  123  git add .
+  124  git commit -m "Added Java Code"
+  125  git status
+  126  git push origin main
+  127  clear
+  128  git status
+  129  clear
+  130  ls
+  131  pwd
+  132  cd ..
+  133  ls
+  134  history >commands.txt
+  135  ls
+  136  cat commands.txt
+  137  clear
+  138  clar
+  139  exit
+  140  clear
+  141  ls
+  142  cd project
+  143  ls
+  144  git log
+  145  clear
+  146  git log --oneline
+  147  ls
+  148  clear
+  149  clear
+  150  ls
+  151  cd .
+  152  ls
+  153  pwd
+  154  clear
+  155  git clone https://github.com/Sudhanshukulkarni50/Github_Practice_11213.git
+  156  git branch
+  157  ls
+  158  cd Github_Practice_11213
+  159  ls
+  160  git branch
+  161  ls
+  162  touch hello.py
+  163  vi hello.py
+  164  ls
+  165  python3 hello.py
+  166  git add hello.py
+  167  git commit -m "Added code"
+  168  git status
+  169  history
+  170  clear
+  171  cd ..
+  172  ls
+  173  cd project
+  174  ls
+  175  clear
+  176  ls
+  177  history>commands.txt
+  178  ls
+  179  cat commands.txt
+  180  clear
+  181  ls
+  182  pwd
+  183  cd .
+  184  mv commands.txt ./ec2-user
+  185  ls
+  186  cd ec2-user
+  187  cd ./
+  188  cd . .
+  189  cd ..
+  190  ls
+  191  pwd
+  192  ls -l
+  193  clear
+  194  pwd
+  195  history>commands.txt
+  196  ls
+  197  cat commands.txt
+  198  clear
+  199  ls
+  200  cd Github_Practice_11213
+  201  ls
+  202  git status
+  203  git log --oneline
+  204  python --version
+  205  python --version
+  206  sudo yum install python
+  207  python --version
+  208  git --version
+  209  clear
+  210  git branch -a
+  211  ls
+  212  cd Github_practice_11213
+  213  cd Github_Practice_11213
+  214  git branch -a
+  215  clear
+  216  exit
+  217  clear
+  218  ls
+  219  cd Github_Practice_11213
+  220  ls
+  221  git branch
+  222  git branch -a
+  223  clear
+  224  ls
+  225  clear
+  226  ls
+  227  git branch staging
+  228  git checkout staging
+  229  git branch
+  230  ls
+  231  python3 hello.py
+  232  git branch
+  233  vi hello.py
+  234  git branch prod
+  235  git checkout prod
+  236  git branch
+  237  python3 hello.py
+  238  git add .
+  239  git commit -m "prod"
+  240  git push origin prod
+  241  git checkout staging
+  242  git branch
+  243  git add .
+  244  git commit -m "Code updated"
+  245  git push origin staging
+  246  exit
+  247  ls
+  248  cd Github_Practice_11213
+  249  ls
+  250  git branch
+  251  clear
+  252  history
+  253  clear
+  254  history>commands.txt

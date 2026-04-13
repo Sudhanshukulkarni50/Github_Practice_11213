@@ -12,4 +12,4 @@ print ("Choices have consequences")
 print ("Are you ready John?.......    Yeaaahhh.....!")
 print ("My name is Gustavo, but you can call me Gus")
 print ("Hardest choices require the strongest wills")
-
+print ("Wise words Captain")

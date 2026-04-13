@@ -10,6 +10,6 @@ print ("You are God Dam Right!")
 print ("John wick is a man of Sheer Fucking will")
 print ("Choices have consequences")
 print ("Are you ready John?.......    Yeaaahhh.....!")
-print ("My name is Gustavo, but you can call me Gus"
+print ("My name is Gustavo, but you can call me Gus")
 print ("Hardest choices require the strongest wills")
 
